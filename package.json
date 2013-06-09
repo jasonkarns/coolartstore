@@ -8,7 +8,8 @@
     "Jason Karns <jason@karns.name> (http://jason.karns.name)"
   ],
   "dependencies": {
-    "lineman": "~0.7.1"
+    "lineman": "~0.7.1",
+    "handlebars": "~1.0.12"
   },
   "engines": {
     "node": "~>0.10.5",

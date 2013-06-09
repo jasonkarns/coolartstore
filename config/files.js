@@ -12,5 +12,7 @@
  */
 
 module.exports = require(process.env['LINEMAN_MAIN']).config.extend('files', {
-  //Override file patterns here
+  template: {
+    homepage: 'app/templates/homepage.handlebars'
+  }
 });
