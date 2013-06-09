@@ -1,12 +1,12 @@
 {
   "name": "CoolArtStore",
-  "title": "An HTML/JS/CSS app",
+  "title": "Project for demonstrating Lineman as a mockup/prototype tool",
   "version": "0.0.1",
   "private": true,
-  "author": {
-    "name": "John Doe",
-    "company": "ACME, Inc."
-  },
+  "author": "Garann Means (https://github.com/garann)",
+  "contributors": [
+    "Jason Karns <jason@karns.name> (http://jason.karns.name)"
+  ],
   "dependencies": {
     "lineman": "~0.7.1"
   },
